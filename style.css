@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'HelveticaNeueW23-Reg';
-    src: url('../fonts/HelveticaNeueW23-Reg.ttf');
+    src: url('fonts/HelveticaNeueW23-Reg.ttf');
 }
 
 @font-face {
     font-family: 'HelveticaNeueW23-Bd';
-    src: url('../fonts/HelveticaNeueW23-Bd.ttf');
+    src: url('fonts/HelveticaNeueW23-Bd.ttf');
 }
 
 body {
